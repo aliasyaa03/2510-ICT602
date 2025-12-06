@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61252148722",
+    "project_id": "assignment-ict602",
+    "storage_bucket": "assignment-ict602.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61252148722:android:50f160e81e880538c7df6b",
+        "android_client_info": {
+          "package_name": "com.example.assignment_ict602"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61252148722-br411pn8ef3mdh4vhaskrikum8hrb52g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_GuFoNAQMrwDLfxSeF5wHJgBFJ623oiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61252148722-br411pn8ef3mdh4vhaskrikum8hrb52g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
